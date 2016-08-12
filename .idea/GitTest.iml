@@ -8,3 +8,4 @@
   </component>
 <!--修改-->
 #test
+#test: git checkout -- <file name>
